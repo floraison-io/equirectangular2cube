@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "equirectangular2cube", "equirectangular2cube.vcxproj", "{04691040-FF26-4921-BE31-B76E6E05CDC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04691040-FF26-4921-BE31-B76E6E05CDC0}.Debug|x64.ActiveCfg = Debug|x64
+		{04691040-FF26-4921-BE31-B76E6E05CDC0}.Debug|x64.Build.0 = Debug|x64
+		{04691040-FF26-4921-BE31-B76E6E05CDC0}.Debug|x86.ActiveCfg = Debug|Win32
+		{04691040-FF26-4921-BE31-B76E6E05CDC0}.Debug|x86.Build.0 = Debug|Win32
+		{04691040-FF26-4921-BE31-B76E6E05CDC0}.Release|x64.ActiveCfg = Release|x64
+		{04691040-FF26-4921-BE31-B76E6E05CDC0}.Release|x64.Build.0 = Release|x64
+		{04691040-FF26-4921-BE31-B76E6E05CDC0}.Release|x86.ActiveCfg = Release|Win32
+		{04691040-FF26-4921-BE31-B76E6E05CDC0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BCB10FB-0076-407F-B02F-BB8392D2100B}
+	EndGlobalSection
+EndGlobal
